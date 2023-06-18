@@ -6,8 +6,6 @@ branches:
   only:
     - master
 
-  build: off
-
   install:
     -chmod +x gradlew
 
